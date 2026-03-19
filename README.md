@@ -1,7 +1,7 @@
 # Advanced Data Mining for Data-Driven Insights and Predictive Modeling  
 ### Deliverable 1: Data Collection, Cleaning, and Exploration  
 **Dataset:** Brain Tumor Feature Dataset  
-**Author:** Vinay Varma Sagi 
+**Author:** Shilpa
 **Course:** MSCS 634 – Advanced Data Mining  
 
 
